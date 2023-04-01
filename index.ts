@@ -1,0 +1,1 @@
+console.log('hai liza, hai muslika, hai huda')
